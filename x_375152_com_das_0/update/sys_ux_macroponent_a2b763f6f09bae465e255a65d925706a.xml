@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750</associated_types>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <data/>
+        <events/>
+        <extends/>
+        <interactions/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Dashboard</name>
+        <props>[]</props>
+        <root_component display_value="x-375152-com-dashboard">8147c6be30e7410f2c4dd18e0c1168fc</root_component>
+        <root_component_config>{}</root_component_config>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 08:28:16</sys_created_on>
+        <sys_id>a2b763f6f09bae465e255a65d925706a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="com-dashboard" source="x_375152_com_das_0">aa697ca72ffd1810179158492799b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="com-dashboard">aa697ca72ffd1810179158492799b60c</sys_scope>
+        <sys_update_name>sys_ux_macroponent_a2b763f6f09bae465e255a65d925706a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 08:28:16</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>
